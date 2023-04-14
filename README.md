@@ -1,3 +1,2 @@
-﻿&nbsp;![c#-logo](./assets/csharp-logo-inline.png) Currently learning `C#`, `.NET` and server side stuff.  
-👀 Also honing my skills in the client side. `React` & `Angular` stuff.  
+👀 Honing my skills in the client side. Mostly `React` stuff.  
 👾 Let's have virtual tea and conversation over Telegram `@atareversei`

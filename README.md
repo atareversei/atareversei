@@ -2,9 +2,9 @@ Software engineer focusing on **systems, networks, and security**.
 
 ### Projects
 - **[http-server](https://github.com/atareversei/http-server)** · Minimal HTTP/1.1 server in Go using raw TCP.  
-- **[mini-quic](https://github.com/atareversei/mini-quic)** · Minimal QUIC protocol implementation in C.  
+- **[minimal-quic](https://github.com/atareversei/minimal-quic)** · Minimal QUIC protocol implementation in C.  
 - **[quardian](https://github.com/atareversei/quardian)** · Real-time intrusion detection system using Go, Python (ML), and React.  
-- **[teleqram](https://github.com/atareversei/teleqram)** · Lightweight secure messaging app (Go + React), inspired by Telegram.  
+- **[teleqram](https://github.com/atareversei/teleqram)** · Lightweight secure messaging app (Go + React), inspired by Telegram. 🚧  
 
 ### Studies
 - **[peach-os](https://github.com/atareversei/peach-os)** · Educational kernel (based on Daniel McCarthy’s course).  

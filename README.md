@@ -1,11 +1,16 @@
 Software engineer with a focus on **systems, networks, and security**, exploring both **low-level programming** and **applied research**.  
   
 ![erp logo](./assets/nxs-logo-inline.png)![erp logo](./assets/cre-logo-inline.png)![erp logo](./assets/cmd-logo-inline.png)![erp logo](./assets/cnt-logo-inline.png)  
-Currently working **@AnataTech** as **Lead Software Engineer**, developing Anata Nexus ERP using ![csharp logo](./assets/csharp-logo-inline.png), ![react logo](./assets/react-logo-inline.png) and ![typescript logo](./assets/typescript-logo-inline.png)
+Currently working at **Anata (Nejati Industrial Group)** as **Lead Software Engineer**, developing Anata Nexus ERP using ![csharp logo](./assets/csharp-logo-inline.png), ![react logo](./assets/react-logo-inline.png) and ![typescript logo](./assets/typescript-logo-inline.png)  
+
+
+![IAU logo](./assets/iau-logo-inline.png) ![3t logo](./assets/3t-logo-inline.png)  
+Previously a Software Engineer at the **3T Platform**, a nationwide project by Islamic Azad University.
+
 
 ### Projects
 - **[http-server](https://github.com/atareversei/http-server)** (✨ 22 stars) · Minimal HTTP/1.1 server in ![go logo](./assets/go-logo-inline.png) using raw TCP.   
-- **[minimal-quic](https://github.com/atareversei/minimal-quic)** (🚧) · Minimal QUIC protocol implementation in ![go logo](./assets/go-logo-inline.png)  
+- **[minimal-quic](https://github.com/atareversei/minimal-quic)** · Minimal QUIC protocol implementation in ![go logo](./assets/go-logo-inline.png)  
 - **[quardian](https://github.com/atareversei/quardian)** (🚧) · Real-time intrusion detection system using ![go logo](./assets/go-logo-inline.png), ![python logo](./assets/python-logo-inline.png) (ML), ![react logo](./assets/react-logo-inline.png) and ![typescript logo](./assets/typescript-logo-inline.png)  
 
 ### Learning & Experiments
@@ -16,7 +21,8 @@ Currently working **@AnataTech** as **Lead Software Engineer**, developing Anata
 - **[qwill](https://github.com/basliqlabs/qwill)** · Bilingual static blog template (Persian + English) built with ![svelte logo](./assets/svelte-logo-inline.png) and ![typescript logo](./assets/typescript-logo-inline.png). Supports categories, Markdown, and light/dark themes.  
 
 ### Featured Articles
-- [Exploring QUIC](https://basliqlabs.github.io/qwill/categories/network/quic-basics) · A deep dive into the QUIC protocol and its architecture.  
+- [Exploring QUIC](https://basliqlabs.github.io/qwill/categories/network/quic-basics) · A deep dive into the QUIC protocol and its architecture.
+
 Read more on [Qwill](https://basliqlabs.github.io/qwill/).  
 
 ### Background

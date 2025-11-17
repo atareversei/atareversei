@@ -1,20 +1,27 @@
-Software engineer focusing on **systems, networks, and security**.  
+![erp logo](./assets/nxs-logo-inline.png) ![erp logo](./assets/cre-logo-inline.png) ![erp logo](./assets/cmd-logo-inline.png) ![erp logo](./assets/cnt-logo-inline.png)
+
+Software engineer with a focus on **systems, networks, and security**, exploring both **low-level programming** and **applied research**. 
 
 ### Projects
-- **[http-server](https://github.com/atareversei/http-server)** · Minimal HTTP/1.1 server in Go using raw TCP.  
-- **[minimal-quic](https://github.com/atareversei/minimal-quic)** · Minimal QUIC protocol implementation in C.  
-- **[quardian](https://github.com/atareversei/quardian)** · Real-time intrusion detection system using Go, Python (ML), and React.  
-- **[teleqram](https://github.com/atareversei/teleqram)** · Lightweight secure messaging app (Go + React), inspired by Telegram. 🚧  
+- **[http-server](https://github.com/atareversei/http-server)** · Minimal HTTP/1.1 server in ![go logo](./assets/go-logo-inline.png) using raw TCP. (✨ 22 stars!)  
+- **[minimal-quic](https://github.com/atareversei/minimal-quic)** · Minimal QUIC protocol implementation in ![go logo](./assets/go-logo-inline.png). (**🚧 Work in progress**)  
+- **[quardian](https://github.com/atareversei/quardian)** · Real-time intrusion detection system using ![go logo](./assets/go-logo-inline.png), ![python logo](./assets/python-logo-inline.png) (ML), and ![react logo](./assets/react-logo-inline.png) & ![typescript logo](./assets/typescript-logo_inline.png). (**🚧 Work in progress**)  
 
-### Studies
-- **[peach-os](https://github.com/atareversei/peach-os)** · Educational kernel (based on Daniel McCarthy’s course).  
-- **[lox-language](https://github.com/atareversei/lox-language)** · Interpreter following *Crafting Interpreters*.  
-- **[atari-2600-game](https://github.com/atareversei/atari-2600-game)** · Game built with assembly while following Gustavo Pezzi’s tutorials.  
-- **[crypto-playground](https://github.com/atareversei/crypto-playground)** · Experiments inspired by Dan Boneh’s Stanford cryptography course.  
-- **[data-science-playground](https://github.com/atareversei/data-science-playground)** · Experiments from Reza Shokrzad’s data science bootcamp.  
+### Learning & Experiments
+- **[peach-os](https://github.com/atareversei/peach-os)** · Educational kernel project in ![c language logo](./assets/c-logo-inline.png) inspired by Daniel McCarthy’s course.  
+- **[lox-language](https://github.com/atareversei/lox-language)** · Interpreter and virtual machine built using ![c language logo](./assets/c-logo-inline.png) following *Crafting Interpreters*.  
+- **[crypto-playground](https://github.com/atareversei/crypto-playground)** · Cryptography experiments inspired by Dan Boneh’s Stanford course.  
+- **[data-science-playground](https://github.com/atareversei/data-science-playground)** · Hands-on exercises from Reza Shokrzad’s data science bootcamp (ML/DL) with ![python logo](./assets/python-logo-inline.png).
+- **[qwill](https://github.com/basliqlabs/qwill)** · Bilingual static blog template (Persian + English) built with ![svelte logo](./assets/svelte-logo-inline.png) & ![typescript logo](./assets/typescript-logo_inline.png). Supports categories, Markdown, and light/dark themes.  
+
+### Featured Articles
+- [Exploring QUIC](https://basliqlabs.github.io/qwill/categories/network/quic-basics) · A deep dive into the QUIC protocol and its architecture.  
+Read more on [Qwill](https://basliqlabs.github.io/qwill/).
+
+
 
 ### Background
 - B.Sc. in Computer Engineering  
-- Preparing for a Master’s in Cybersecurity (2026)  
+- Preparing for a Master’s in Distributed Systms and Computer Networks (2026)  
 
 📬 [atareversei@gmail.com](mailto:atareversei@gmail.com) · [LinkedIn](https://www.linkedin.com/in/atareversei/)  

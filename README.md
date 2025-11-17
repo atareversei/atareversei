@@ -1,7 +1,7 @@
 Software engineer focused on **systems, networks, and security**, working across **low-level programming** and **applied research**.
 
 ![erp logo](./assets/nxs-logo-inline.png)![erp logo](./assets/cre-logo-inline.png)![erp logo](./assets/cmd-logo-inline.png)![erp logo](./assets/cnt-logo-inline.png)  
-Currently **Lead Software Engineer at Anata (Nejati Industrial Group)**, developing the Anata Nexus ERP using ![csharp logo](./assets/csharp-logo-inline.png), ![react logo](./assets/react-logo-inline.png) and ![typescript logo](./assets/typescript-logo-inline.png)
+Currently **Lead Software Engineer** at **Anata (Nejati Industrial Group)**, developing the Anata Nexus ERP using ![csharp logo](./assets/csharp-logo-inline.png) and ![react logo](./assets/react-logo-inline.png) ![typescript logo](./assets/typescript-logo-inline.png)
 
 ![IAU logo](./assets/iau-logo-inline.png) ![3t logo](./assets/3t-logo-inline.png)  
 Previously a **Software Engineer at the 3T Platform**, a nationwide system owned and operated by Islamic Azad University.
@@ -19,12 +19,12 @@ Previously a **Software Engineer at the 3T Platform**, a nationwide system owned
 - **[lox-language](https://github.com/atareversei/lox-language)** · Interpreter and virtual machine in ![c language logo](./assets/c-logo-inline.png) following _Crafting Interpreters_.
 - **[crypto-playground](https://github.com/atareversei/crypto-playground)** · Cryptography experiments inspired by Dan Boneh’s Stanford course.
 - **[data-science-playground](https://github.com/atareversei/data-science-playground)** · ML/DL exercises from Reza Shokrzad’s bootcamp using ![python logo](./assets/python-logo-inline.png)
-- **[qwill](https://github.com/basliqlabs/qwill)** · Bilingual static blog template (Persian + English) built with ![svelte logo](./assets/svelte-logo-inline.png) and ![typescript logo](./assets/typescript-logo-inline.png). Supports categories, Markdown, and light/dark themes.
+- **[qwill](https://github.com/basliqlabs/qwill)** · Bilingual static blog template (Persian + English) built with ![svelte logo](./assets/svelte-logo-inline.png) ![typescript logo](./assets/typescript-logo-inline.png). Supports categories, Markdown, and light/dark themes.
     
 
 ### Featured Articles
 
-- [Exploring QUIC](https://basliqlabs.github.io/qwill/categories/network/quic-basics) · A deep dive into the QUIC protocol and its architecture.
+- **[Exploring QUIC](https://basliqlabs.github.io/qwill/categories/network/quic-basics)** · A deep dive into the QUIC protocol and its architecture.
 
 Read more on **[Qwill](https://basliqlabs.github.io/qwill/)**.
 

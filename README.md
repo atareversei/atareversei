@@ -1,6 +1,6 @@
 Software engineer focused on **systems, networks, and security**, working across **low-level programming** and **applied research**.
 
-# Work
+### Work
 
 ![erp logo](./assets/nxs-logo-inline.png)![erp logo](./assets/cre-logo-inline.png)![erp logo](./assets/cmd-logo-inline.png)![erp logo](./assets/cnt-logo-inline.png)  
 Currently **Lead Software Engineer** at **Anata (Nejati Industrial Group)**, developing the Anata Nexus ERP using ![csharp logo](./assets/csharp-logo-inline.png) and ![react logo](./assets/react-logo-inline.png) ![typescript logo](./assets/typescript-logo-inline.png)

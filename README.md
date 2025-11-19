@@ -34,4 +34,6 @@ Read more on **[Qwill](https://basliqlabs.github.io/qwill/)**.
 
 - B.Sc. in Computer Engineering
 - Preparing for a Master’s in **Distributed Systems and Computer Networks** (2026)
+
+
 📬 **[atareversei@gmail.com](mailto:atareversei@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/atareversei/)**

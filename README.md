@@ -1,4 +1,4 @@
-Software engineer focused on **systems, networks, and security**, working across **low-level programming** and **applied research**.
+Software engineer focused on **systems and networks**, working across **low-level programming** and **applied research**.
 
 ### Work
 
@@ -8,14 +8,8 @@ Currently **Lead Software Engineer** at **Anata (Nejati Industrial Group)**, dev
 ### Projects
 
 - **[http-server](https://github.com/atareversei/http-server)** (✨ 23 stars) · Minimal HTTP/1.1 server in ![go logo](./assets/go-logo-inline.png) using raw TCP.
-- **[rlox](https://github.com/atareversei/pl431-compiler-design/tree/main/projects/rlox)** (✨ 11 stars) · Simple programming lanuage implementation in ![rust logo](./assets/rust-logo-inline.png)
-- **[quardian](https://github.com/atareversei/quardian)** (🚧) · Real-time intrusion detection system using ![go logo](./assets/go-logo-inline.png), ![python logo](./assets/python-logo-inline.png) (ML) and ![react logo](./assets/react-logo-inline.png) ![typescript logo](./assets/typescript-logo-inline.png)
-    
-### Featured Articles
-
-- **[Exploring QUIC](https://basliqlabs.github.io/qwill/categories/network/quic-basics)** · A deep dive into the QUIC protocol and its architecture.
-
-Read more on **[Qwill](https://basliqlabs.github.io/qwill/)**.
+- **[rlox](https://github.com/atareversei/pl431-compiler-design/tree/main/projects/rlox)** (✨ 11 stars) · Simple programming language implementation in ![rust logo](./assets/rust-logo-inline.png)
+- **[attempts](https://github.com/atareversei/attempts)** (🚧) · Static blog template written with ![svelte logo](./assets/svelte-logo-inline.png)![typescript logo](./assets/typescript-logo-inline.png)
 
 ### Background
 
